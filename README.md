@@ -1,4 +1,6 @@
 # C-linkList
+# <a href="https://www.cnblogs.com/lanhaicode/p/10304567.html">链表（单向链表的建立、删除、插入、打印）</a>
+# <a href="https://www.cxyxiaowu.com/1400.html">链表算法面试问题？看我就够了！</a>
 c 语言链表专题
 # 链表实例1 vs2013版本
 // 链表基本操作.cpp : 定义控制台应用程序的入口点。
